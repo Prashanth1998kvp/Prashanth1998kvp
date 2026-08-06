@@ -1,29 +1,45 @@
 # Hi 👋 I'm Prashanth KV
 
-Python Backend Developer
+## Python Backend Developer
 
-## Skills
+💼 4 Years of Experience
 
-- Python
-- Django
-- FastAPI
-- REST APIs
-- SQL
-- AWS
+### About Me
+
+- Python Backend Developer
+- Django & FastAPI
+- REST API Development
+- SQL & PostgreSQL
+- AWS EC2
 - Docker
 - Jenkins
-- Git
 - LangChain
 - ChromaDB
-- RAG
-- Llama3
+- RAG Applications
+
+## Tech Stack
+
+Python • Django • FastAPI • DRF • SQL • PostgreSQL • AWS • Docker • Git • Linux • LangChain • ChromaDB
 
 ## Featured Projects
 
-- Django REST API
-- FastAPI CRUD API
-- RAG Chatbot
-- Python Automation
-- SQL Interview Practice
+🚀 Django REST API
+
+🚀 FastAPI CRUD API
+
+🚀 Python Automation Scripts
+
+🚀 SQL Interview Practice
+
+🚀 RAG Document Chatbot
+
+## Connect with Me
+
+📧 Email: prashanthkvp98@gmail.com
+
+💼 LinkedIn:
+linkedin.com/in/prashanth-k-v-224675208
+
+📍 Bangalore, India
 
 Currently available for Freelance & Full-time Opportunities.
